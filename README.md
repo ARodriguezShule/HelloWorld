@@ -6,4 +6,4 @@ graph LR
 A[Square Rect] -- hola --> B(pruebaa)
 A --> C{Rhombus}
 B --> D{Rhombus}
-C --> D
+C --> D(Round Rect)
