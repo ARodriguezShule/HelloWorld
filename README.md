@@ -5,5 +5,6 @@ just a repository for practice git commands
 graph LR
 A[Square Rect] -- hola --> B(pruebaa)
 A --> C{Rhombus}
-B --> D{Rhombus}
+A --> C(Round Rect)
 C --> D(Round Rect)
+
